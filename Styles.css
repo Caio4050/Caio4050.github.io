@@ -5,11 +5,14 @@ h1{
     color: #e40202;
     
 }
+body{
+    background-color: lightblue;
+
+}
 p{
     text-align: center;
     color: blueviolet;
     font-size: larger;
-    background-color: lightblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img{
