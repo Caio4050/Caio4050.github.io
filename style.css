@@ -1,0 +1,55 @@
+/*Mostrando um pouco de css que eu achei adequado para o projeto*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main {
+    margin-left: 200px;
+
+}
+
+h1 {
+    font-size: 23.94px;
+}
+
+h2 {
+    font-size: 18.62px;
+}
+
+p {
+    font-size: 13.30px;
+}
+
+ul {
+    font-size: 13.30px;
+}
+
+footer hr {
+    margin-left: -100px;
+    width: calc(100% + 100px);
+}
+
+footer {
+    font-size: 13.30px;
+    margin-left: 50px;
+}
+
+#imagens {
+    border: solid rgb(238, 164, 5);
+    width: 205px;
+    height: 100px;
+}
+
+div {
+    margin: auto;
+}
+
+li:hover {
+    background-color: yellow;
+}
+
+header {
+    text-align: center;
+    padding: 25pxS;
+}
